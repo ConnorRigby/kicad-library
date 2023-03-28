@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Button")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/Button.pretty")(options "")(descr ""))
+  (lib (name "Enclosure")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/Enclosure.pretty")(options "")(descr ""))
+  (lib (name "LCSC_Antenna")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Antenna.pretty")(options "")(descr ""))
+  (lib (name "LCSC_Microcontroller")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Microcontroller.pretty")(options "")(descr ""))
+  (lib (name "LCSC_Connector")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Connector.pretty")(options "")(descr ""))
+)
