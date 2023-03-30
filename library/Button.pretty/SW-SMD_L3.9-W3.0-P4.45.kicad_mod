@@ -27,7 +27,7 @@
     (stroke (width 0.254) (type solid)) (fill none) (layer "F.SilkS") (tstamp 1a5f6aad-35b6-43a2-853b-ae94fa278cf3))
   (pad "1" smd rect (at -2.184912 0) (size 1.229997 1.359995) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 473dde07-8554-4176-8a3a-401cac287aab))
   (pad "2" smd rect (at 2.184912 0) (size 1.229997 1.359995) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c05504e7-4412-4269-a330-285329c8786e))
-  (model "${KIPRJMOD}/library/Button.pretty/packages3d/SW-SMD_L3.9-W3.0-P4.45.wrl"
+  (model "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/Button.pretty/packages3d/SW-SMD_L3.9-W3.0-P4.45.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

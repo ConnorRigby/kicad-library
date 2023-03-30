@@ -11,4 +11,6 @@
   (lib (name "LCSC_Microcontroller")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Microcontroller.kicad_sym")(options "")(descr ""))
   (lib (name "LCSC_Crystal")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Crystal.kicad_sym")(options "")(descr ""))
   (lib (name "LCSC_Connector")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Digikey_FPGA")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/Digikey_FPGA.kicad_sym")(options "")(descr ""))
+  (lib (name "LCSC_BatteryManagement")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_BatteryManagement.kicad_sym")(options "")(descr ""))
 )
