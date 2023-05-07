@@ -5,4 +5,5 @@
   (lib (name "LCSC_Antenna")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Antenna.pretty")(options "")(descr ""))
   (lib (name "LCSC_Microcontroller")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Microcontroller.pretty")(options "")(descr ""))
   (lib (name "LCSC_Connector")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_Connector.pretty")(options "")(descr ""))
+  (lib (name "SOM_MYC")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/SOM_MYC.pretty")(options "")(descr ""))
 )
