@@ -15,12 +15,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 25a8d0e7-74f3-4513-877f-452b200d86f5)
   )
-  (fp_circle (center -0.000051 0.000025) (end -0.000051 -3.298172)
+  (fp_circle (center -0.000051 0.000025) (end -0.000051 -3.6)
     (stroke (width 0.151994) (type solid)) (fill none) (layer "F.SilkS") (tstamp f59c8e56-46f3-4376-8876-c6ffdeb34ba1))
   (fp_circle (center -0.000051 0.000025) (end 0.899873 0.000025)
     (stroke (width 1.8) (type solid)) (fill none) (layer "F.Fab") (tstamp 98388e8c-e877-40f2-929b-0ba05a823c94))
   (pad "" np_thru_hole circle (at -0.000051 0.000025) (size 3.8 3.8) (drill 3.8) (layers "*.Cu" "*.Mask") (tstamp 46b622b6-6b42-45af-bae1-e920506e960d))
-  (pad "1" smd custom (at -1.844094 -1.599924) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd custom (at -2.05 -1.8) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -134,7 +134,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp c9ee6673-6ffb-4c42-bab4-3bc694d4eb1c))
-  (pad "1" smd custom (at -1.600254 1.844069) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd custom (at -1.8 2.05) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -248,7 +248,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp 0f55515b-902c-4088-ae8d-f543e9521a2f))
-  (pad "1" smd custom (at 1.599898 -1.844018) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd custom (at 1.8 -2.05) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -362,7 +362,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp 2450f0f8-7f3d-4aed-8385-71e9414757fd))
-  (pad "1" smd custom (at 1.843993 1.600229) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd custom (at 2.05 1.8) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -476,9 +476,14 @@
         )
         (width 0) (fill yes))
     ) (tstamp 8ca73b04-971f-4fd8-8628-2943dc85bba2))
-  (model "/home/connor/.local/share/kicad/7.0/template/kicad-library/library/LCSC_Connector.pretty/packages3d/SMD_BD5.6-L5.6-W5.6-D3.6.wrl"
+  (model "/home/connor/.local/share/kicad/7.0/template/kicad-library/library/LCSC_Connector.pretty/packages3d/SMD_BD5.6-L5.6-W5.6-D3.6.wrl" hide
     (offset (xyz -0.001041399984 0.002285999966 0.03009899955))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
+  )
+  (model "/home/connor/workspace/connorrigby/PCBot/chassis/SMTSO2020CTJ.step"
+    (offset (xyz 0 0 -1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

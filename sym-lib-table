@@ -14,4 +14,5 @@
   (lib (name "Digikey_FPGA")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/Digikey_FPGA.kicad_sym")(options "")(descr ""))
   (lib (name "LCSC_BatteryManagement")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_BatteryManagement.kicad_sym")(options "")(descr ""))
   (lib (name "SOM_MYC")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/SOM_MYC.kicad_sym")(options "")(descr ""))
+  (lib (name "LCSC_RF_Transciever_ICs")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/kicad-library/library/LCSC_RF_Transciever_ICs.kicad_sym")(options "")(descr ""))
 )
